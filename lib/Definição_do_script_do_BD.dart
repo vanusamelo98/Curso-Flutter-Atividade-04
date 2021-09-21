@@ -1,0 +1,1 @@
+//O script do BD pode ser definido como como o responsável por conter instruções, comandos adicionais, variáveis, comentários, palavra-chave e outros elementos textuais essenciais para lidar com dados e representar a lógica de algum algoritmo. No entanto, também é possível que se encontre instruções complexas que ocupam várias linhas e manipulam muitos objetos ao mesmo tempo. 
