@@ -1,3 +1,5 @@
+A atividade se encontra na pasta /lib
+
 # funcoes_assincronas
 
 A new Flutter project.
